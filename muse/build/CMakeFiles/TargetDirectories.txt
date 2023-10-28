@@ -1,0 +1,3 @@
+/mnt/c/Users/jorda/My-Compiler/muse/build/CMakeFiles/muse.dir
+/mnt/c/Users/jorda/My-Compiler/muse/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jorda/My-Compiler/muse/build/CMakeFiles/rebuild_cache.dir
